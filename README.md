@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Zayan Ishraque
 - 👀 I’m interested in coding and crafting things with new tech.
 - 🌱 I’m currently learning how to use software infrastructure
-- 💞️ I’m looking to collaborate on
+- 💞️ I’m looking to collaborate on Github
 - 📫 You can reach me Via Linkedin
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: I am extremly loud
